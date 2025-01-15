@@ -18,7 +18,7 @@ public class C05_AsagiInme extends TestBase_Each {
         driver.get("https://html.com/tags/iframe/");
 
         //2- video’yu gorecek kadar asagi inin
-        //   bana 1 kere pagedown yapmak yetiyor
+
 
         Actions actions = new Actions(driver);
         ReusableMethods.bekle(1);
